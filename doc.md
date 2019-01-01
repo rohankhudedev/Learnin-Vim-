@@ -1,0 +1,19 @@
+- ^E - Scroll the window down
+- ^Y - Scroll the window up
+- ^F - Scroll down one page
+- ^B - Scroll up one page
+- H  - Move cursor to the top of the window
+- M  - Move cursor to the middle of the window
+- L  - Move cursor to the bottom of the window
+- gg - go to top of file
+- G - goto end of file
+- hkjl - left down up right
+- Word movement : w, e, b
+- Number powered movement, e.g 5w
+- Insert text repeatedly, e.g 3iYes
+- Go to matching parentheses, %
+- Goto start/end of line, 0 annd $
+- Find word under cursor, * for next occurence and # for previous occurence
+- r - When you need to replace only one character under your cursor, without changing to insert mode, use r.
+- i - To repeat the previous command, just press `.`. e.g. First remove two words with d2w and repeat using `.` 
+-  
